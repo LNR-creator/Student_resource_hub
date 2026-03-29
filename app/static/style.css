@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top{
+    background-color: red;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-top: 0;
+    color: azure;
+}
+
+
+
